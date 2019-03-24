@@ -1,2 +1,2 @@
-# Hello-world
-git 및 github 공부
+# java study
+java study and java programing
